@@ -14,4 +14,4 @@ class Tester extends React.Component {
   }
 }
 
-export default Flasher;
+export default Tester;
